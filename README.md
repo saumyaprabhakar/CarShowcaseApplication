@@ -2,9 +2,10 @@
 Developed with Next.js and leveraging its server-side rendering capabilities, the Car Showcase website presents various car types, showcasing comprehensive information in a well-designed format with advanced filtering and pagination support for an enhanced user experience.
 
 ## ⚙️ Tech Stack
-Next.js
-TypeScript
-Tailwind CSS
+- Next.js
+- TypeScript
+- Tailwind CSS
+
 
 ## 🔋 Features
 👉 Home Page: Showcases a visually appealing display of cars fetched from a third-party API, providing a captivating introduction to the diverse range of vehicles available.
