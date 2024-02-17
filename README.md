@@ -23,3 +23,27 @@ Developed with Next.js and leveraging its server-side rendering capabilities, th
 👉 Responsive Website Design: The website is designed to be visually pleasing and responsive, ensuring an optimal user experience across various devices.
 
 and many more, including code architecture and reusability
+
+
+## Deployed Application
+The application is deployed on Vercel
+Link- https://car-showcase-application-five.vercel.app/
+
+## Preview of the application
+![Preview of the application](Home.png)
+Home Page of the Application
+
+![Preview of the application](carCatalouge.png)
+Car Catalouge
+
+![Preview of the application](searchBar.png)
+Search bar to search your favourite cars
+
+![Preview of the application](customFilters.png)
+Custom filters to select the year or the type of car
+
+![Preview of the application](carDetails.png)
+Complete Car Details shown in a card
+
+![Preview of the application](showMore.png)
+Show more button to incorporate pagination
