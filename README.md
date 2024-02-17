@@ -25,12 +25,12 @@ Developed with Next.js and leveraging its server-side rendering capabilities, th
 and many more, including code architecture and reusability
 
 
-## Deployed Application
+## 🚀 Deployed Application
 The application is deployed on Vercel
 Link- https://car-showcase-application-five.vercel.app/
 
 
-## Preview of the application
+## 💻 Preview of the application
 ![Preview of the application](Home.png)
 Home Page of the Application
 
@@ -48,7 +48,7 @@ Custom filters to select the year or the type of car
 
 
 ![Preview of the application](carDetails.png)
-Complete Car Details shown in a card
+Complete Car Details shown on a card
 
 
 ![Preview of the application](showMore.png)
